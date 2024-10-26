@@ -3,7 +3,7 @@
 ## 🚀 **Data Science** | 🎨 **UI/UX Enthusiast**
 
 📍 **Singapore**  
-📧 **Email:** [contact@alina407muskhan.com](mailto:contact@alina407muskhan.com)  
+📧 **Email:** [alina407muskhan@gmail.com](mailto:alina407muskhan@gmail.com)  
 🔗 **LinkedIn:** [alinamuskhan1904](https://linkedin.com/in/alinamuskhan1904)  
 👨‍💻 **GitHub:** [alinamuskhan](https://github.com/alinamuskhan)
 
