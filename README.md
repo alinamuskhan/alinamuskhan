@@ -8,7 +8,7 @@ I am a Computer Science and Engineering student with a love for **Data Science a
         <h3>💫 Fun Facts</h3>
         <p>☕️ <strong>C</strong> was my the first programming language I learned!</p>
         <p>🎮 When I'm not coding or creating content, you'll likely find me playing a video game. I'm currently playing <strong>The Legend of Zelda: Tears of the Kingdom</strong>.</p>
-        <p>💬 Fluent in Hindi, Urdu, and English, with a knack for reading, writing, and speaking Tamil—I'm always up for a multilingual conversation!.</p>
+        <p>💬 Fluent in Hindi, Urdu, and English, with a knack for reading, writing, and speaking Tamil—I'm always up for a multilingual conversation!</p>
         <br/>
     </td>
     <td align="center">
