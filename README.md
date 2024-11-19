@@ -103,13 +103,6 @@ I am a Computer Science and Engineering student with a love for **Data Science a
         style="border-radius: 4px;"
     >
 </a>
-<a href="https://leetcode.com/alina_muskhan3904"
-    <img 
-        src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" 
-        alt="LeetCode Logo Badge" 
-        style="border-radius: 4px;"
-    >
-</a>
     </td>
   </tr>
 </table>
