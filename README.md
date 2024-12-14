@@ -1,3 +1,5 @@
+![Alina Github Banner](Github-Banner-gif.gif)
+
 # 👋🏻 Hey, I'm Alina Muskhan!
 
 I am a Computer Science and Engineering student with a love for **Data Science and AI**. I specialize in building predictive models and data-driven applications using Python and various ML frameworks. Additionally, I have received certification in UI/UX, which has enhanced my ability to create intuitive and visually appealing user interfaces. My goal is to leverage technology to solve real-world problems and share my knowledge through projects, tutorials, and collaboration. I am committed to continuous learning and contributing to the tech community.
