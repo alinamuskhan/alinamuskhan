@@ -1,7 +1,14 @@
-![readme_header](https://github.com/alinamuskhan/alinamuskhan/blob/main/Banner.gif.gif)
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hola👋+fellow+<coders/>!🧑🏻‍💻;+I'm+Harshal+Kumawat!;" />
-</h1>
+<p align="center">
+  <img src="https://github.com/alinamuskhan/alinamuskhan/blob/main/Banner.gif.gif" alt="readme_header" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=15DBF7&width=600&lines=Hola%F0%9F%91%8B+fellow+%3Ccoders%2F%3E!%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+;+I'm+Alina+Muskhan!" alt="Typing SVG" />
+  </a>
+</p>
+
+
 
 <h3 align="center">An AI & ML aficionado from India 🤖🇮🇳</h3>
 
