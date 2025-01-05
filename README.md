@@ -1,4 +1,5 @@
-![Alina Github Banner](Github-Banner-gif.gif)
+![readme_header](https://github.com/user-attachments/assets/5b01ec37-1e4b-48f2-b06e-3b93d50a2e44)
+
 
 # 👋🏻 Hey, I'm Alina Muskhan!
 
