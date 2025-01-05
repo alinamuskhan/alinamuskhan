@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/alinamuskhan/alinamuskhan/blob/main/Banner.gif.gif" alt="readme_header" />
+  <img src="https://github.com/alinamuskhan/alinamuskhan/blob/main/Github_Banner.gif" alt="readme_header" />
 </p>
 
 <p align="center">
