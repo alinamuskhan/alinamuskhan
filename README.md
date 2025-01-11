@@ -10,7 +10,7 @@
 
 
 
-<h3 align="center">An AI & ML aficionado from India 🤖🇮🇳</h3>
+<h3 align="center">A Data Science Aficionado & AI Explorer 📊🤖</h3>
 
 <br/>
 
@@ -23,15 +23,17 @@
  😄 Pronouns: built/different
  
  ☕ Always powered by **tea!**
+ 
+I am a Computer Science and Engineering student with a love for **Data Science and AI**. I specialize in building predictive models and data-driven applications using Python and various ML frameworks. Additionally, I have received certification in UI/UX, which has enhanced my ability to create intuitive and visually appealing user interfaces. My goal is to leverage technology to solve real-world problems and share my knowledge through projects, tutorials, and collaboration. I am committed to continuous learning and contributing to the tech community.
 
  </div>
 <br>
  
 <div align="center"> 
-     <a href="mailto:harshalkumawat100@gmail.com">
+     <a href="mailto:alina407muskhan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/harshal-kumawat" target="_blank">
+  <a href="https://www.linkedin.com/in/alinamuskhan1904" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -50,11 +52,6 @@
 
 
 ![horizontal-divider-gradient](https://github.com/user-attachments/assets/dbcaecca-3d13-4f59-9777-81f18aa04b18)
-
-
-# 👋🏻 Hey, I'm Alina Muskhan!
-
-I am a Computer Science and Engineering student with a love for **Data Science and AI**. I specialize in building predictive models and data-driven applications using Python and various ML frameworks. Additionally, I have received certification in UI/UX, which has enhanced my ability to create intuitive and visually appealing user interfaces. My goal is to leverage technology to solve real-world problems and share my knowledge through projects, tutorials, and collaboration. I am committed to continuous learning and contributing to the tech community.
 
 <table>
   <tr>
