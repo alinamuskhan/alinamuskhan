@@ -112,15 +112,14 @@ I am a Computer Science and Engineering student with a love for **Data Science a
     <td>
         <h3 style="text-align: center" align="center" valign="top">📖 Currently Learning</h3><br>
         <ul>
-            <li>Building design skills with <strong>Figma</strong> </li>
-            <li><strong>CircuitPython</strong> to program an Adafruit Macropad</li>
-            <li>I'll be learning <strong>JavaScript</strong> <em>forever</em>! 😊 </li>
+                <li>Exploring <strong>Advanced Machine Learning Models</strong> 🤖</li>
+                <li>Learning <strong>Web Design</strong> 🎨</li>
         </ul>
     </td>
     <td align="center">
         <h3>👷🏾‍♀️ Currently Building</h3>
         <img src="img/current-work.png" width="200px">
-        <p>I'm currently building an <a href="https://learn.adafruit.com/adafruit-macropad-rp2040/overview">Adafruit MacroPad</a> and I'll use CircuitPython to program it!</p> 
+        <p>I'm currently working on <strong>Machine Learning</strong> and <strong>Data Science Projects</strong> 📊🤖</p>
     </td>
   </tr>
   <tr>
